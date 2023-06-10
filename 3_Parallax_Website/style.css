@@ -17,7 +17,7 @@ html,body{
 
 .pimg2{
     background: url(images/2.jpg);
-    min-height: 400%;
+    min-height: 100%;
     position: relative;   
 }
 
@@ -68,3 +68,9 @@ html,body{
     background-color: rgb(34, 25, 26);
     color: rgb(238, 228, 224);
 }
+
+.section-dark{
+
+    background-color: green;
+}
+
